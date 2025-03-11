@@ -47,5 +47,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [your email/contact link].
-```
+For any questions or feedback, please contact danya10121985@gmail.com
